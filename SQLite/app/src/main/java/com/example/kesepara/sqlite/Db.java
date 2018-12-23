@@ -89,7 +89,7 @@ public class Db extends SQLiteOpenHelper {
             cv.put(ROW_SURNAME, surname);
             cv.put(ROW_PHONE, phone);
             String where = ROW_ID + " = " + id;
-            db.update(TABLE_CUSTOMER, cv, where, null);
+            db.update(TABLE_CUSTOMER, cv, where , null);
         } catch (Exception e) {
             System.out.println("Update Error: " + e);
         }
