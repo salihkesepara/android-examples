@@ -1,0 +1,2051 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+    <channel>
+        <atom10:link href="http://www.hurriyet.com.tr/rss/gundem" rel="self" type="application/rss+xml"
+            xmlns:atom10="http://www.w3.org/2005/Atom" />
+        <title>Hürriyet</title>
+        <description>TÜRKİYE'NİN AÇILIŞ SAYFASI</description>
+        <link>http://www.hurriyet.com.tr/gundem/</link>
+        <image>
+            <url>file://s.hurriyet.com.tr/static/images/hurriyet/hurriyet-logo.png</url>
+            <title>Hürriyet</title>
+            <link>http://www.hurriyet.com.tr/gundem/</link>
+        </image>
+        <link>http://www.hurriyet.com.tr/gundem/</link>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/korku-dolu-anlar-canini-hice-saydi-41062369</link>
+            <title>Korku dolu anlar! Görenlerin ağzı açık kaldı</title>
+            <description>Malatya’da hareket halindeki kamyonetin arkasına tutunarak yolculuk yapan kişi, korku dolu anlara neden oldu. Çevredekiler yolculuğu cep telefonları ile görüntüledi. Öte yandan Bursa-Ankara yolunda 2 kişinin ev eşyası yüklü kamyonetin arkasında yaptığı yolculuk yürekleri ağza getirdi.</description>
+            <pubDate>Mon, 24 Dec 2018 16:52:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/korku-dolu-anlar-canini-hice-saydi-41062369</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 17:00:41 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 16:47:00 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c2110500f25442b109b1574.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c2110500f25442b109b1574.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c2110500f25442b109b1574.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c2110500f25442b109b1574.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/son-dakika-unlu-is-kadini-hayatini-kaybetti-41062352</link>
+            <title>Son dakika... Ünlü iş kadını hayatını kaybetti!</title>
+            <description>ABD'nin Teksas eyaletinde eşi ile açtıkları fast food restoran zinciriyle tanınan 2 çocuk annesi Seçil Özpağda (40), omurilik kanserinden yaşamını yitirdi. İznikli Özpağda'nın Teksas'ta toprağa verileceği öğrenildi.</description>
+            <pubDate>Mon, 24 Dec 2018 16:10:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/son-dakika-unlu-is-kadini-hayatini-kaybetti-41062352</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 17:32:15 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 16:06:53 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c2104d40f25442b109b14a4.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c2104d40f25442b109b14a4.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c2104d40f25442b109b14a4.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c2104d40f25442b109b14a4.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/son-dakika-cumhurbaskanligi-sozcusu-kalin-trump-2019-yili-icerisinde-turkiyeye-gelecek-41062336</link>
+            <title>Son dakika... Cumhurbaşkanlığı Sözcüsü Kalın: Trump 2019 yılı içerisinde Türkiye'ye gelecek</title>
+            <description>Cumhurbaşkanlığı Sözcüsü İbrahim Kalın, ABD askerlerinin Suriye'den çekilmesiyle ilgili '14 Aralık'taki Erdoğan-Trump görüşmesi seyri değiştirdi.' dedi. Bu hafta ABD'li bir heyetin Türkiye'ye geleceğini belirten Kalın, "İlk aşamada askerler arasında koordinasyon olacak." diye konuştu.. Kalın, ABD Başkanı Trump'ın da 2019 yılı içerisinde Türkiye'ye geleceğini açıklarken, Metin Akpınar ve Müjdat Gezen'in tartışılan sözleri için de "'Sözlerin mizah adı altında hoş görülmesi mümkün değil. Keşke sanatçılıktan uzak olan lafları söylemeselerdi." ifadelerini kullandı.</description>
+            <pubDate>Mon, 24 Dec 2018 15:36:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/son-dakika-cumhurbaskanligi-sozcusu-kalin-trump-2019-yili-icerisinde-turkiyeye-gelecek-41062336</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 17:17:07 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 15:35:35 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c211488c03c0e24502d3408.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c211488c03c0e24502d3408.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c211488c03c0e24502d3408.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c211488c03c0e24502d3408.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/soylentiyi-duyan-nufus-mudurlugune-kosuyor-41062321</link>
+            <title>Söylentiyi duyan Nüfus Müdürlüğüne koşuyor</title>
+            <description>Adıyaman'da yılbaşından önce kimlik ve ehliyetlerini değiştirmeyenlere yüksek miktarda para cezası uygulanacağı söylentisi üzerine kent sakinleri İl Nüfus ve Vatandaşlık Müdürlüğüne akın etti. Müdürlüğün önünde uzun kuyruklar oluşurken, yetkililer söylentinin asılsız olduğu açıklamasında bulundu.</description>
+            <pubDate>Mon, 24 Dec 2018 15:30:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/soylentiyi-duyan-nufus-mudurlugune-kosuyor-41062321</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 16:31:55 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 15:28:33 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20fb90c03c0e24502d337f.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20fb90c03c0e24502d337f.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20fb90c03c0e24502d337f.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20fb90c03c0e24502d337f.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/avusturyali-gazeteciye-tahliye-41062319</link>
+            <title>Avusturyalı gazeteciye tahliye</title>
+            <description>Yasadışı TKP/Kıvılcım terör örgütü üyesi olduğu iddiasıyla geçen eylül ayında tutuklanan Avusturyalı gazeteci Max Zirngast, Ankara 26. Ağır Ceza Mahkemesi tarafından tahliye edildi. Zirngast hakkında örgüt üyeliği suçlamasıyla da dava açıldı.</description>
+            <pubDate>Mon, 24 Dec 2018 15:27:14 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/avusturyali-gazeteciye-tahliye-41062319</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 15:27:14 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 15:25:52 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20fad1c03c0e24502d3376.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20fad1c03c0e24502d3376.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20fad1c03c0e24502d3376.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20fad1c03c0e24502d3376.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/son-dakika-reina-katliami-suphelisi-tutuklandi-41062318</link>
+            <title>Son dakika... Reina katliamı şüphelisi tutuklandı</title>
+            <description>Adana'da terör operasyonunda yakalanan bir şüphelinin, Reina saldırısının failinin kaldığı evdeki parmak izlerinden birinin sahibi olduğu belirlendi. Çeçenistan asıllı Rusya vatandaşı olan şüpheli çıkarıldığı mahkemece tutuklandı.
+            </description>
+            <pubDate>Mon, 24 Dec 2018 15:23:32 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/son-dakika-reina-katliami-suphelisi-tutuklandi-41062318</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 15:23:32 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 15:22:54 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20f9e1c03c0e24502d3370.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20f9e1c03c0e24502d3370.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20f9e1c03c0e24502d3370.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20f9e1c03c0e24502d3370.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/kuvvetli-ruzgar-ve-firtina-uyarisi-41062315</link>
+            <title>Kuvvetli rüzgar ve fırtına uyarısı</title>
+            <description>Doğu Karadeniz'in iç kesimlerinde kuvvetli rüzgar ve fırtına beklendiği bildirildi.</description>
+            <pubDate>Mon, 24 Dec 2018 15:17:49 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/kuvvetli-ruzgar-ve-firtina-uyarisi-41062315</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 15:17:49 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 15:16:44 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20f8980f25442b109b13ca.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20f8980f25442b109b13ca.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20f8980f25442b109b13ca.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20f8980f25442b109b13ca.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/gorme-engelli-gencin-aci-sonu-41062302</link>
+            <title>Görme engelli gencin acı sonu</title>
+            <description>Bursa’nın Gemlik ilçesinde görme, konuşma ve işitme engelli bir kişi su kuyusuna düşerek hayatını kaybetti. </description>
+            <pubDate>Mon, 24 Dec 2018 14:51:26 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/gorme-engelli-gencin-aci-sonu-41062302</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 14:51:26 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 14:48:47 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20f2430f25442b109b1394.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20f2430f25442b109b1394.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20f2430f25442b109b1394.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20f2430f25442b109b1394.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/mansur-yavastan-kilicdaroglu-ve-aksenere-ziyaret-41062261</link>
+            <title>Mansur Yavaş'tan Kılıçdaroğlu ve Akşener'e ziyaret </title>
+            <description>CHP Ankara Büyükşehir Belediye Başkan adayı Mansur Yavaş, CHP Genel Başkanı Kemal Kılıçdaroğlu ve İYİ Parti Genel Başkanı Meral Akşener’i ziyaret etti. </description>
+            <pubDate>Mon, 24 Dec 2018 14:21:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/mansur-yavastan-kilicdaroglu-ve-aksenere-ziyaret-41062261</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 14:40:07 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 14:08:15 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20eb360f25442b109b12b7.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20eb360f25442b109b12b7.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20eb360f25442b109b12b7.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20eb360f25442b109b12b7.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/esini-oldurup-intihar-etti-41062104</link>
+            <title>75 yaşındaki adam eşini öldürüp intihar etti </title>
+            <description>Ankara'nın Beypazarı ilçesinde eşini bıçaklayarak öldüren kişi kendini asarak intihar etti.</description>
+            <pubDate>Mon, 24 Dec 2018 14:03:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/esini-oldurup-intihar-etti-41062104</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 14:03:16 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 12:17:36 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20e6ee0f25442b109b123d.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20e6ee0f25442b109b123d.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20e6ee0f25442b109b123d.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20e6ee0f25442b109b123d.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/89-yasindaki-adamin-1-6-milyon-lirasini-dolandirmislar-41062250</link>
+            <title>89 yaşındaki adamın 1,6 milyon lirasını dolandırmışlar</title>
+            <description>Eskişehir'de kendilerini polis olarak tanıtarak 89 yaşındaki kişinin yaklaşık 1,6 milyon lirasını dolandırdıkları iddiasıyla haklarında dava açılan 3 tutuklu sanık, 8'er yıl hapis ve toplam 3,6 milyon lira adli para cezasına mahkum edildi.</description>
+            <pubDate>Mon, 24 Dec 2018 14:02:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/89-yasindaki-adamin-1-6-milyon-lirasini-dolandirmislar-41062250</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 17:53:19 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 14:00:01 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20e7050f25442b109b1241.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20e7050f25442b109b1241.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20e7050f25442b109b1241.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20e7050f25442b109b1241.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/son-dakika-25-aralik-kumpas-davasinda-karar-41062226</link>
+            <title>Son dakika... 25 Aralık Kumpas davasında karar</title>
+            <description>"25 Aralık darbeye teşebbüs" davasında 10 sanık, "hükümeti ortadan kaldırmaya teşebbüs" suçundan ağırlaştırılmış müebbet hapisle cezalandırıldı.</description>
+            <pubDate>Mon, 24 Dec 2018 13:39:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/son-dakika-25-aralik-kumpas-davasinda-karar-41062226</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 15:15:35 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 13:38:21 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20f814c03c0e24502d3369.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20f814c03c0e24502d3369.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20f814c03c0e24502d3369.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20f814c03c0e24502d3369.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/vanda-iki-ilcede-okullar-yarin-tatil-41062218</link>
+            <title>Van'da iki ilçede okullar yarın tatil </title>
+            <description>Van’da etkisini sürdüren yoğun kar yağışı nedeniyle, 295 yerleşim biriminde ulaşım sağlanamazken, Özalp ve Saray ilçelerinde eğitim-öğretime yarın için bir günlük ara verildiği belirtildi.</description>
+            <pubDate>Mon, 24 Dec 2018 13:35:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/vanda-iki-ilcede-okullar-yarin-tatil-41062218</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 13:36:48 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 13:33:17 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20e09e0f25442b109b118c.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20e09e0f25442b109b118c.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20e09e0f25442b109b118c.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20e09e0f25442b109b118c.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/kulliyede-kabine-toplantisi-basladi-41062217</link>
+            <title>Külliye’de Kabine Toplantısı başladı</title>
+            <description>Kabine Toplantısı, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında başladı. Cumhurbaşkanlığı Külliyesi'ndeki toplantı, saat 16.20'de başladı.</description>
+            <pubDate>Mon, 24 Dec 2018 13:31:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/kulliyede-kabine-toplantisi-basladi-41062217</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 13:42:03 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 13:30:33 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20dfbf0f25442b109b1163.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20dfbf0f25442b109b1163.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20dfbf0f25442b109b1163.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20dfbf0f25442b109b1163.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/50-milyon-lira-kazanmislar-dev-bahis-operasyonu-41062202</link>
+            <title>50 milyon liranın üzerinde... Dev bahis vurgunu!</title>
+            <description>Sivas merkezli 6 ilde internet üzerinden yasa dışı bahis oynatıp haksız kazanç sağlayan suç örgütüne yönelik operasyonda 28 şüpheli gözaltına alındı. Örgütün yaklaşık 4 yıldır internet üzerinden yasa dışı bahis oynatarak gayrimenkul ve menkullerle birlikte 50 milyon liranın üzerinde kazanç sağladığı tespit edildi </description>
+            <pubDate>Mon, 24 Dec 2018 13:23:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/50-milyon-lira-kazanmislar-dev-bahis-operasyonu-41062202</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 13:37:11 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 13:20:37 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20ddc4c03c0e24502d31f8.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20ddc4c03c0e24502d31f8.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20ddc4c03c0e24502d31f8.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20ddc4c03c0e24502d31f8.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/genc-doktor-adayinin-olum-nedeni-belli-oldu-41062185</link>
+            <title>Genç doktor adayının ölüm nedeni belli oldu </title>
+            <description>Genç doktor adayı Mustafa Burak Şanlı'nın astım ve alerji atağından hayatını kaybettiği öğrenildi. </description>
+            <pubDate>Mon, 24 Dec 2018 13:16:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/genc-doktor-adayinin-olum-nedeni-belli-oldu-41062185</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 13:38:48 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 13:11:13 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20dc030f25442b109b10d7.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20dc030f25442b109b10d7.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20dc030f25442b109b10d7.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20dc030f25442b109b10d7.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/katili-is-arkadasi-cikti-41062143</link>
+            <title>Katili iş arkadaşı çıktı </title>
+            <description>Ankara'da bir ay önce kaybolan belediye işçisinin iş arkadaşı tarafından öldürülerek gömüldüğü belirlendi.</description>
+            <pubDate>Mon, 24 Dec 2018 12:42:41 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/katili-is-arkadasi-cikti-41062143</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 12:42:41 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 12:39:55 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20d43c0f25442b109b0f81.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20d43c0f25442b109b0f81.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20d43c0f25442b109b0f81.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20d43c0f25442b109b0f81.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/silede-hayvan-hirsizlarina-adliye-onunde-tepki-41062141</link>
+            <title>Şile'de hayvan hırsızlarına adliye önünde tepki</title>
+            <description>ŞİLE'de büyükbaş hayvanları çaldıkları iddia edilen 7 kişi Şile Jandarma Komutanlığı ekipleri tarafından gözaltına alındı. Hayvan sahiplerinin, bugün adliyeye sevkedilen şüphelilere saldırısını Jandarma ve polis ekipleri önledi. Şüphelilerin hayvanları vurarak öldürdükleri, etlerini de parçalara ayırarak sattıkları ortaya çıktı.</description>
+            <pubDate>Mon, 24 Dec 2018 12:40:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/silede-hayvan-hirsizlarina-adliye-onunde-tepki-41062141</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 13:39:59 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 12:38:42 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20d3910f25442b109b0f3a.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20d3910f25442b109b0f3a.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20d3910f25442b109b0f3a.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20d3910f25442b109b0f3a.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/hakkaride-askeri-arac-devrildi-41062142</link>
+            <title>Hakkari'de askeri araç devrildi!</title>
+            <description>Hakkari’de görevden dönen zırhlı askeri aracın devrilmesi sonucu 2 asker yaralandı.</description>
+            <pubDate>Mon, 24 Dec 2018 12:39:53 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/hakkaride-askeri-arac-devrildi-41062142</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 12:39:53 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 12:39:13 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20d396c03c0e24502d3105.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20d396c03c0e24502d3105.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20d396c03c0e24502d3105.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20d396c03c0e24502d3105.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/bassavciliktan-mujdat-gezen-ve-metin-akpinar-aciklamasi-41062117</link>
+            <title>Başsavcılık'tan Müjdat Gezen ve Metin Akpınar açıklaması </title>
+            <description>İstanbul Anadolu Cumhuriyet Başsavcılığı, mahkemeden adli kontrol hükümleri uygulanarak serbest bırakılan Sanatçılar Müjdat Gezen ve Metin Akpınar'la ilgili yürütülen soruşturma kapsamında yazılı açıklama yaptı. Açıklamada, Müjdat Gezen'in "Cumhurbaşkanına Hakaret" suçundan, Metin Akpınar ise "Halkı T.C. Hükümetine Karşı Silahlı İsyana Tahrik" ve "Cumhurbaşkanına Hakaret" suçlarından adli kontrol talebiyle mahkemeye sevk edildiği belirtilerek, "Her iki şüpheli hakkında "yurt dışına çıkışı yasaklanmak" ve "Haftada bir gün karakola imza vermek" suretiyle adli kontrol kararı verilmiştir" denildi. </description>
+            <pubDate>Mon, 24 Dec 2018 12:33:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/bassavciliktan-mujdat-gezen-ve-metin-akpinar-aciklamasi-41062117</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 13:24:35 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 12:29:26 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20d2160f25442b109b0eb4.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20d2160f25442b109b0eb4.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20d2160f25442b109b0eb4.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20d2160f25442b109b0eb4.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/teneffuste-ikram-edilen-sekeri-yiyen-hastanelik-oldu-41062114</link>
+            <title>Teneffüste ikram edilen şekeri yiyen hastanelik oldu </title>
+            <description>Balıkesir'in Edremit ilçesinde sınıf arkadaşlarının ikram ettiği şekerlerden yiyen 40 öğrenci, gıda zehirlenmesi şüphesiyle hastanelerde tedavi altına alındı.</description>
+            <pubDate>Mon, 24 Dec 2018 12:28:55 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/teneffuste-ikram-edilen-sekeri-yiyen-hastanelik-oldu-41062114</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 12:28:55 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 12:26:32 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20d1050f25442b109b0e68.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20d1050f25442b109b0e68.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20d1050f25442b109b0e68.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20d1050f25442b109b0e68.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/son-dakika-ibrahim-cerraha-12-yil-9-ay-hapis-41062105</link>
+            <title>Son dakika... İbrahim Cerrah'a 12 yıl 9 ay hapis</title>
+            <description>FETÖ üyeliğinden yargılanan eski Polis Akademisi Bilimsel Araştırma ve Yayın Kurulu Başkanı İbrahim Cerrah, 12 yıl 9 ay hapis cezasına çarptırıldı.</description>
+            <pubDate>Mon, 24 Dec 2018 12:19:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/son-dakika-ibrahim-cerraha-12-yil-9-ay-hapis-41062105</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 12:39:49 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 12:18:14 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20cebbc03c0e24502d3086.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20cebbc03c0e24502d3086.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20cebbc03c0e24502d3086.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20cebbc03c0e24502d3086.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-bestepede-konusuyor-41062083</link>
+            <title>Cumhurbaşkanı Erdoğan: Suriye Kürtlerini PKK/PYD'nin zulmüne terk etmeyeceğiz</title>
+            <description>Cumhurbaşkanı Recep Tayyip Erdoğan, Beştepe’de Engelli İstihdamı Töreni'nde önemli açıklamalarda bulundu. Fırat’ın doğusuna yönelik operasyon hazırlığına ilişkin önemli mesajlar veren Erdoğan, "Suriye Kürtlerini PKK'nın eline terk etmeyeceğiz. Suriye'deki Arapların, Kürtlerin sorununu kendi meselemiz olarak görüyoruz. Suriye'de mesele özgürlük meselesidir, toprak bütünlüğü meselesidir." dedi.</description>
+            <pubDate>Mon, 24 Dec 2018 12:06:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-bestepede-konusuyor-41062083</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 13:16:50 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 12:04:34 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20dc250f25442b109b10e2.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20dc250f25442b109b10e2.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20dc250f25442b109b10e2.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20dc250f25442b109b10e2.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/erdogan-ile-aliyev-telefonda-gorustu-41062039</link>
+            <title>Cumhurbaşkanı Erdoğan ile Aliyev telefonda görüştü </title>
+            <description>Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev'i telefonla arayarak doğum gününü kutladı. </description>
+            <pubDate>Mon, 24 Dec 2018 11:45:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/erdogan-ile-aliyev-telefonda-gorustu-41062039</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 11:58:05 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 11:37:02 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c6f00f25442b109b0bac.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c6f00f25442b109b0bac.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c6f00f25442b109b0bac.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c6f00f25442b109b0bac.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/kiz-arkadasini-otomobille-ezerek-oldurmustu-flas-gelisme-41062036</link>
+            <title>Kız arkadaşını otomobille ezerek öldürmüştü! Flaş gelişme...</title>
+            <description>Antalya'da, otomobilde tartıştığı kız arkadaşı Hüsne Aslan'ın (23) üzerinden kullandığı araçla geçerek ölümüne neden olduğu gerekçesiyle daha önce 16 yıl 8 ay hapis cezasına çarptırılan Şahin Koçar'ın (33), kararın, Yargıtay tarafından bozulmasının ardından yeniden yargılanmasına başlandı.</description>
+            <pubDate>Mon, 24 Dec 2018 11:43:13 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/kiz-arkadasini-otomobille-ezerek-oldurmustu-flas-gelisme-41062036</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 11:43:13 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 11:34:37 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c4cc0f25442b109b0afb.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c4cc0f25442b109b0afb.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c4cc0f25442b109b0afb.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c4cc0f25442b109b0afb.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/reina-saldirganinin-ev-arkadasi-eylem-hazirligindayken-yakalandi-41062041</link>
+            <title>Reina saldırganının ev arkadaşı eylem hazırlığındayken yakalandı</title>
+            <description>Adana'da yürütülen soruşturma kapsamında, İl Emniyet Müdürlüğü Terörle Mücadele Şube Müdürlüğü ekipleri tarafından düzenlenen operasyonda, terör örgütü El-Kaide’nin Suriye’deki yapılanması olarak faaliyet gösteren “Heyet Tahrir Şam” terör örgütüne üye olduğu değerlendirilen Çeçenistan asıllı Rusya vatandaşı A.G. yakalandı.
+                Reina saldırısının failinin kaldığı evdeki parmak izlerinden birinin sahibi olduğu belirlenen şüpheli tutuklandı.    </description>
+            <pubDate>Mon, 24 Dec 2018 11:38:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/reina-saldirganinin-ev-arkadasi-eylem-hazirligindayken-yakalandi-41062041</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 15:01:07 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 11:37:53 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c5720f25442b109b0b23.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c5720f25442b109b0b23.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c5720f25442b109b0b23.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c5720f25442b109b0b23.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/siirtte-kar-9-koy-yolunu-ulasima-kapatti-41062009</link>
+            <title>Siirt'te kar, 9 köy yolunu ulaşıma kapattı</title>
+            <description>SİİRT'te etkili olan kar yağışı nedeniyle Şirvan ve Pervari ilçelerine bağlı 9 köy yolu ulaşıma kapanırken, ekiplerin yol açma çalışmaları sürüyor.</description>
+            <pubDate>Mon, 24 Dec 2018 11:30:30 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/siirtte-kar-9-koy-yolunu-ulasima-kapatti-41062009</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 11:30:30 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 11:29:23 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c3540f25442b109b0ab0.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c3540f25442b109b0ab0.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c3540f25442b109b0ab0.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c3540f25442b109b0ab0.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/patlamada-olen-firma-sahibi-son-yolculuguna-ugurlandi-41062001</link>
+            <title>Patlamada ölen firma sahibi son yolculuğuna uğurlandı</title>
+            <description>Erzurum'un Aşkale ilçesinde bir krom madenindeki manyezit ocağında meydana gelen kontrolsüz patlamada hayatını kaybeden firma sahibi Mehmet Yıldız, son yolculuğuna uğurlandı. </description>
+            <pubDate>Mon, 24 Dec 2018 11:25:28 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/patlamada-olen-firma-sahibi-son-yolculuguna-ugurlandi-41062001</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 11:25:28 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 11:24:35 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c2050f25442b109b0a64.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c2050f25442b109b0a64.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c2050f25442b109b0a64.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c2050f25442b109b0a64.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/son-dakika-meteorolojiden-kuvvetli-kar-yagisi-uyarisi-41062000</link>
+            <title>Dikkat! Meteoroloji'den son dakika kuvvetli kar yağışı uyarısı geldi</title>
+            <description>METEOROLOJİ, Batı Karadeniz, Ege ve İç Anadolu için kuvvetli kar yağışı uyarısında bulundu. Meteroloji, Ankara için de kar ve don uyarısında bulundu. Çarşamba, Perşembe, Cuma, Cumartesi hava sıcaklıkları gündüz ve gece sıfırın altında olacak. Perşembe günü hava sıcaklığının gece -11, gündüz ise -7 olması bekleniyor.</description>
+            <pubDate>Mon, 24 Dec 2018 11:24:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/son-dakika-meteorolojiden-kuvvetli-kar-yagisi-uyarisi-41062000</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 12:15:32 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 11:23:28 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c2560f25442b109b0a79.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c2560f25442b109b0a79.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c2560f25442b109b0a79.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c2560f25442b109b0a79.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/mansur-yavastan-onemli-aciklamalar-41061999</link>
+            <title>Mansur Yavaş’tan önemli açıklamalar</title>
+            <description>CHP'nin Ankara adayı Mansur Yavaş, Ankara'da otelde gazetecilerle kahvaltıda bir araya geldi.
+
+            </description>
+            <pubDate>Mon, 24 Dec 2018 11:22:50 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/mansur-yavastan-onemli-aciklamalar-41061999</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 11:22:50 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 11:21:55 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c1880f25442b109b0a37.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c1880f25442b109b0a37.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c1880f25442b109b0a37.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20c1880f25442b109b0a37.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/boyle-uyarmisti-korktugu-oldu-41061976</link>
+            <title>Böyle uyarmıştı... Korktuğu oldu</title>
+            <description>Antalya'nın Kemer ilçesinde meydana gelen motosiklet kazasında virajı alamayıp yol kenarındaki demir bariyerlere çarparak feci şekilde can veren Hasan Uzdemir’in cenazesi, bugün morgdan alındı. Oğlunun ölüm haberiyle Sivas’tan Antalya’ya gelen acılı baba gözyaşlarına boğuldu. Hız tutkunluğuyla bilinen Uzdemir’in babasının motosikletiyle hız yapan oğluna bir süre önce sosyal medyadan ‘Oğlum Allah korusun, canım. Sat onu’ diyerek uyardığı ortaya çıktı. </description>
+            <pubDate>Mon, 24 Dec 2018 11:16:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/boyle-uyarmisti-korktugu-oldu-41061976</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 11:55:28 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 11:10:02 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20bfe60f25442b109b09b3.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20bfe60f25442b109b09b3.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20bfe60f25442b109b09b3.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20bfe60f25442b109b09b3.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/esini-agabeyinden-kiskandi-kursun-yagdirdi-41061968</link>
+            <title>Eşini ağabeyinden kıskandı! Kurşun yağdırdı</title>
+            <description>Kocaeli’nin İzmit ilçesinde abisi ile kendisini aldattığını iddia ettiği eşini sokak ortasında kovalayan şahıs, kadını sığındığı spor salonunda pompalı tüfekle yaraladı. Yaralı kadın kanlar içinde kalırken, silahlı saldırgan spor salonu çalışanları tarafından etkisiz hale getirildi. </description>
+            <pubDate>Mon, 24 Dec 2018 11:04:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/esini-agabeyinden-kiskandi-kursun-yagdirdi-41061968</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 11:41:40 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 11:02:00 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20bd33c03c0e24502d2ec6.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20bd33c03c0e24502d2ec6.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20bd33c03c0e24502d2ec6.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20bd33c03c0e24502d2ec6.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/mujdat-gezen-ve-metin-akpinara-sorusturmaya-ak-partiden-ilk-yorum-41061956</link>
+            <title>Müjdat Gezen ve Metin Akpınar'a soruşturmaya AK Parti'den ilk yorum</title>
+            <description>AK Parti Genel Başkan Yardımcısı Hamza Dağ, Müjdat Gezen ve Metin Akpınar hakkındaki soruşturma hakkında "Yani ortada bir darbe çağrısı, bir tehdit ve sokağa çıkmada içerisinde olan, neredeyse bir vandallığa çağrı olan bir ifade durumu söz konusu. İnsanların bazı görevlerde bulunması, insanların sanatçı olması, yazar olması, siyasetçi olması onların suç işlemesi konusunda meşruiyet kazandırmaz" şeklinde konuştu.</description>
+            <pubDate>Mon, 24 Dec 2018 11:02:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/mujdat-gezen-ve-metin-akpinara-sorusturmaya-ak-partiden-ilk-yorum-41061956</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 11:54:44 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 10:58:36 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20bccc0f25442b109b08c6.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20bccc0f25442b109b08c6.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20bccc0f25442b109b08c6.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20bccc0f25442b109b08c6.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/kayseride-igrenc-olay-erkek-cocuguna-banyoda-istismar-41061935</link>
+            <title>Kayseri'de iğrenç olay! Erkek çocuğuna banyoda istismar</title>
+            <description>Kayseri’de kanepe taşıma bahanesiyle evine götürdüğü iş arkadaşı olan 16 yaşındaki erkek çocuğuna banyoda cinsel istismarda bulunduğu iddiasıyla tutuksuz yargılanan kargo çalışanın mahkemece 14 yıl hapis cezası ile tutuklanmasına karar verildi. Pedagog eşliğinde mağdur erkek çocuğu, “Sanık ben izin vermeyip kaçınca bana ‘seni denedim’ dedi” şeklinde ifade verdi.</description>
+            <pubDate>Mon, 24 Dec 2018 10:41:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/kayseride-igrenc-olay-erkek-cocuguna-banyoda-istismar-41061935</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 10:43:28 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 10:39:04 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20b7f2c03c0e24502d2e67.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20b7f2c03c0e24502d2e67.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20b7f2c03c0e24502d2e67.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20b7f2c03c0e24502d2e67.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/basketbol-dunyasini-kahreden-olum-41061931</link>
+            <title>Basketbol dünyasını kahreden ölüm!</title>
+            <description>EDİRNE’deki evinde fenalaşan, Türkiye Basketbol 1. Ligi ekiplerinden Edirnespor Basketbol Takımı’nın eski oyuncusu Kemal Mazlum Zahra (23), kaldırıldığı hastanede yaşamını yitirdi. Uyuşturucu kullandıktan sonra komaya girdiği iddia edilen Zahra’nın kesin ölüm nedeni otopsi sonucu ortaya çıkacak.</description>
+            <pubDate>Mon, 24 Dec 2018 10:35:58 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/basketbol-dunyasini-kahreden-olum-41061931</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 10:35:58 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 10:34:31 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20b68cc03c0e24502d2e50.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20b68cc03c0e24502d2e50.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20b68cc03c0e24502d2e50.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20b68cc03c0e24502d2e50.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/pisman-degilim-aklim-hala-yapamadiklarimda-41061909</link>
+            <title>“Pişman değilim, aklım hala yapamadıklarımda”</title>
+            <description>İstanbul’da Anadolu ve Avrupa yakasında 18 farklı ilçede 61 ev ve iş yerine girerek 5 milyon lira değerinde 11 otomobil ve çok sayıda malzeme çalan hırsızlık çetesi polis ekipleri tarafından çökertildi. Operasyonda 1’i çocuk 16 çete üyesi operasyonla gözaltına alındı. Adliyeye sevk edilen şüphelilerden biri "Yaptıklarımdan pişman değilim. Aklım yapamadıklarımda" diye bağırdı.</description>
+            <pubDate>Mon, 24 Dec 2018 10:26:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/pisman-degilim-aklim-hala-yapamadiklarimda-41061909</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 11:52:49 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 10:25:27 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20b453c03c0e24502d2e34.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20b453c03c0e24502d2e34.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20b453c03c0e24502d2e34.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20b453c03c0e24502d2e34.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/evinden-cikan-sari-yelekleri-boyle-savundu-41061860</link>
+            <title>Evinden çıkan sarı yelekleri böyle savundu</title>
+            <description>Bursa KOM ekipleri tarafından evinde sarı yelek bulunan öğretmenin karısı, "Ben Dünya Çevre Örgütü üyesiyim, bu yelekler oradan kalma" dedi.</description>
+            <pubDate>Mon, 24 Dec 2018 09:50:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/evinden-cikan-sari-yelekleri-boyle-savundu-41061860</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 10:01:18 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 09:49:00 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20abe20f25442b109b0532.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20abe20f25442b109b0532.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20abe20f25442b109b0532.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20abe20f25442b109b0532.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/cop-ayristirma-tesisinde-bulunan-parcalanmis-cesedin-kimligi-belli-oldu-41061846</link>
+            <title>Vahşet! Parçalanmış ceset 17 yaşındaki çocuğa ait çıktı </title>
+            <description>ORDU’nun Altınordu ilçesinde, çöp ayrıştırma tesisinde bulunan parçalanmış erkek cesedinin, Irak uyruklu Hüseyin Kalas’a (17) ait olduğu belirlendi. Günlük 500 ton çöpün işlendiği tesiste gece boyu süren aramalarda cesede ait başka uzuvlara da rastlanırken, olayla ilgili Irak uyruklu 3 şüpheli gözaltına alındı.</description>
+            <pubDate>Mon, 24 Dec 2018 09:49:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/cop-ayristirma-tesisinde-bulunan-parcalanmis-cesedin-kimligi-belli-oldu-41061846</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>24.12.2018 10:13:29 +00:00</dc:modified>
+            <mi:dateTimeWritten>24.12.2018 09:44:51 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20abb90f25442b109b0521.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20abb90f25442b109b0521.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20abb90f25442b109b0521.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c20abb90f25442b109b0521.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/tskdan-son-dakika-aciklamasi-41060471</link>
+            <title>TSK'dan son dakika açıklaması</title>
+            <description>Irak'ın kuzeyindeki Metina bölgesine düzenlenen hava harekatında, üs bölgelerine saldırı hazırlığındaki 2 terör örgütü mensubunun etkisiz hale getirildiği bildirildi.</description>
+            <pubDate>Sat, 22 Dec 2018 14:07:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/tskdan-son-dakika-aciklamasi-41060471</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>22.12.2018 15:49:43 +00:00</dc:modified>
+            <mi:dateTimeWritten>22.12.2018 14:07:05 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1e4532c03c0e1c5cfda148.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1e4532c03c0e1c5cfda148.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1e4532c03c0e1c5cfda148.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1e4532c03c0e1c5cfda148.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/teror-orgutune-kritik-operasyon-41060420</link>
+            <title>Terör örgütüne kritik operasyon</title>
+            <description>İSTANBUL ve Mardin’de düzenlenen terör operasyonunda 12 kişi gözaltına alındı.</description>
+            <pubDate>Sat, 22 Dec 2018 12:54:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/teror-orgutune-kritik-operasyon-41060420</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>22.12.2018 12:56:47 +00:00</dc:modified>
+            <mi:dateTimeWritten>22.12.2018 12:53:50 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1e340fc03c0e1c5cfd9ecf.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1e340fc03c0e1c5cfd9ecf.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1e340fc03c0e1c5cfd9ecf.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1e340fc03c0e1c5cfd9ecf.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/ahmet-sever-hakkinda-teror-sorusturmasi-41059580</link>
+            <title>Ahmet Sever hakkında terör soruşturması</title>
+            <description>11. Cumhurbaşkanı Abdullah Gül’ün uzun süre başdanışmanlığını yapan Ahmet Sever hakkında 'silahlı terör örgütüne propagandası' yapmak suçundan soruşturma başlatıldı.</description>
+            <pubDate>Fri, 21 Dec 2018 12:32:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/ahmet-sever-hakkinda-teror-sorusturmasi-41059580</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>21.12.2018 12:53:13 +00:00</dc:modified>
+            <mi:dateTimeWritten>21.12.2018 12:29:41 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1cdd470f25442768aa5d58.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1cdd470f25442768aa5d58.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1cdd470f25442768aa5d58.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1cdd470f25442768aa5d58.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/rezalet-goruntuler-kocasi-terk-etti-intikamini-cocuklarindan-aldi-41059409</link>
+            <title>Rezalet görüntüler... Kocası terk etti intikamını çocuklarından aldı</title>
+            <description>ANTALYA’da eşi Bahattin D.’nin (30) evi terk edip Muş’a gitmesini kabullenemeyen Elif D. (20), oğulları Y. (1) ve J.’yi (3) dövdüğü anları cep telefonuyla kaydedip, görüntüleri kocasına ve yakınlarına gönderdi. Çocuklarını döverken "İntikamımı böyle alırım" dediği duyulan Elif D., dedenin şikayeti üzerine gözaltına alındı.
+            </description>
+            <pubDate>Fri, 21 Dec 2018 10:48:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/rezalet-goruntuler-kocasi-terk-etti-intikamini-cocuklarindan-aldi-41059409</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>21.12.2018 11:30:15 +00:00</dc:modified>
+            <mi:dateTimeWritten>21.12.2018 10:40:39 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1cc4e00f25442768aa5add.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1cc4e00f25442768aa5add.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1cc4e00f25442768aa5add.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1cc4e00f25442768aa5add.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/haberler/ozet/gundem-24-saat-21-12-2018-41059108</link>
+            <title>Gündem 24 Saat - 21.12.2018</title>
+            <description>Gündem 24 Saat - 21.12.2018</description>
+            <pubDate>Fri, 21 Dec 2018 07:55:46 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/haberler/ozet/gundem-24-saat-21-12-2018-41059108</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Haberler</category>
+            <subcategory>Özet</subcategory>
+            <dc:modified>21.12.2018 07:55:46 +00:00</dc:modified>
+            <mi:dateTimeWritten>21.12.2018 07:53:40 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/son-dakika-yozgatta-feci-kaza-41058917</link>
+            <title>Yozgat'ta feci kaza</title>
+            <description>Yozgat'ın Yerköy ilçesinde, yolcu otobüsünün devrilmesi sonucu ilk belirlemelere göre bir kişi öldü, 20 kişi yaralandı.</description>
+            <pubDate>Fri, 21 Dec 2018 06:11:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/son-dakika-yozgatta-feci-kaza-41058917</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>21.12.2018 07:49:27 +00:00</dc:modified>
+            <mi:dateTimeWritten>21.12.2018 05:56:38 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1c83de0f25442768aa5408.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1c83de0f25442768aa5408.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1c83de0f25442768aa5408.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1c83de0f25442768aa5408.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/hizli-tren-kazasi-sorusturmasinda-flas-gelisme-41058595</link>
+            <title>Hızlı tren kazası soruşturmasında flaş gelişme</title>
+            <description>Ankara'da 13 Aralık 2018'de meydana gelen Yüksek Hızlı Tren (YHT) kazasına yönelik soruşturmayı yürüten cumhuriyet savcıları olay yerinde keşif yaptı.</description>
+            <pubDate>Thu, 20 Dec 2018 14:13:33 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/hizli-tren-kazasi-sorusturmasinda-flas-gelisme-41058595</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>20.12.2018 14:13:33 +00:00</dc:modified>
+            <mi:dateTimeWritten>20.12.2018 14:08:17 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1ba369c03c0e0cf050db5b.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1ba369c03c0e0cf050db5b.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1ba369c03c0e0cf050db5b.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1ba369c03c0e0cf050db5b.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/tarihi-caminin-son-bolumu-boyle-tasindi-41058508</link>
+            <title>Tarihi caminin son bölümü böyle taşındı</title>
+            <description>Devlet Su İşleri (DSİ) tarafından yapımı tamamlanan ve Güneydoğu Anadolu Projesi'nin (GAP) vizyonu olan Ilısu Barajı ve HES projesinden etkilenen Batman'ın Hasankeyf ilçesindeki tarihi eserlerden, 4 bin 600 ton ağırlığındaki Eyyubi Camisi'nin 2 bin 500 tonluk son bölümünün taşınmasına başlandı.</description>
+            <pubDate>Thu, 20 Dec 2018 13:40:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/tarihi-caminin-son-bolumu-boyle-tasindi-41058508</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>20.12.2018 13:58:44 +00:00</dc:modified>
+            <mi:dateTimeWritten>20.12.2018 13:19:05 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1ba00dc03c0e0cf050dab5.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1ba00dc03c0e0cf050dab5.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1ba00dc03c0e0cf050dab5.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1ba00dc03c0e0cf050dab5.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/hatayda-gergin-dakikalar-41058483</link>
+            <title>Hatay'da gergin dakikalar</title>
+            <description>Hatay'da, belediyenin belirlediği yerde satış yapmayıp yol kenarına tezgahlarını taşıyan pazarcı esnafı, trafiği ve yayaları engelledikleri gerekçesiyle kendilerine müdahale eden zabıta ekiplerine tepki gösterip, ürünlerini yola döktü.</description>
+            <pubDate>Thu, 20 Dec 2018 13:07:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/hatayda-gergin-dakikalar-41058483</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>20.12.2018 13:22:38 +00:00</dc:modified>
+            <mi:dateTimeWritten>20.12.2018 13:00:26 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1b93fdc03c0e0cf050d826.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1b93fdc03c0e0cf050d826.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1b93fdc03c0e0cf050d826.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1b93fdc03c0e0cf050d826.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/deniz-yucelin-davasinda-yeni-gelisme-41058026</link>
+            <title>Deniz Yücel'in davasında yeni gelişme</title>
+            <description>Alman "Die Welt" gazetesinin Türkiye temsilcisi Deniz Yücel'in  "Terör örgütü propagandası yapmak" ve "Halkı kin ve düşmanlığa tahrik" suçlarından yargılandığı davaya devam edildi. Duruşmada, yurtdışında yaşayan Deniz Yücel'in ifadesinin alınması için yazılan istinabe evrakının sonucunun beklenmesine karar verildi.</description>
+            <pubDate>Thu, 20 Dec 2018 08:58:07 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/deniz-yucelin-davasinda-yeni-gelisme-41058026</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>20.12.2018 08:58:07 +00:00</dc:modified>
+            <mi:dateTimeWritten>20.12.2018 08:56:27 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1b599ac03c0e0cf050c7da.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1b599ac03c0e0cf050c7da.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1b599ac03c0e0cf050c7da.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1b599ac03c0e0cf050c7da.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/fetoye-buyuk-darbe-41057945</link>
+            <title>FETÖ'ye büyük darbe</title>
+            <description>İzmir merkezli 5 ilde, Fetullahçı Terör Örgütü'ne (FETÖ) yönelik operasyonda, aralarında muvazzaf askerlerin de yer aldığı 15 şüpheli yakalandı.</description>
+            <pubDate>Thu, 20 Dec 2018 08:20:50 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/fetoye-buyuk-darbe-41057945</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>20.12.2018 08:20:50 +00:00</dc:modified>
+            <mi:dateTimeWritten>20.12.2018 08:13:34 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1b509fc03c0e0cf050c5ca.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1b509fc03c0e0cf050c5ca.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1b509fc03c0e0cf050c5ca.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1b509fc03c0e0cf050c5ca.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/izmirde-kritik-operasyon-41057934</link>
+            <title>İzmir'de kritik operasyon</title>
+            <description>Sosyal medya hesapları üzerinden PKK-KCK silahlı terör örgütünün propagandasını yaptığı belirlenen 15 kişiden 12'si gözaltına alındı.</description>
+            <pubDate>Thu, 20 Dec 2018 08:08:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/izmirde-kritik-operasyon-41057934</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>20.12.2018 08:25:45 +00:00</dc:modified>
+            <mi:dateTimeWritten>20.12.2018 08:04:09 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1b51e3c03c0e0cf050c5f2.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1b51e3c03c0e0cf050c5f2.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1b51e3c03c0e0cf050c5f2.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1b51e3c03c0e0cf050c5f2.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/haberler/ozet/gundem-24-saat-19-12-2018-41057906</link>
+            <title>Gündem - 24 Saat (20.12.2018)</title>
+            <description>Gündem - 24 Saat (20.12.2018)</description>
+            <pubDate>Thu, 20 Dec 2018 07:48:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/haberler/ozet/gundem-24-saat-19-12-2018-41057906</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Haberler</category>
+            <subcategory>Özet</subcategory>
+            <dc:modified>20.12.2018 08:58:07 +00:00</dc:modified>
+            <mi:dateTimeWritten>20.12.2018 07:45:39 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/milli-mucadelede-ilk-kursunun-atilisinin-100-yil-donumu-41057390</link>
+            <title>Milli Mücadele'de ilk kurşunun atılışının 100. yıl dönümü</title>
+            <description>Hatay'ın Dörtyol ilçesinde, Milli Mücadele'de ilk kurşunun atılışının 100'üncü yıl dönümü dolayısıyla tören düzenlendi.</description>
+            <pubDate>Wed, 19 Dec 2018 14:05:15 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/milli-mucadelede-ilk-kursunun-atilisinin-100-yil-donumu-41057390</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>19.12.2018 14:05:15 +00:00</dc:modified>
+            <mi:dateTimeWritten>19.12.2018 14:02:28 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1a4fed0f254432c40e4799.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1a4fed0f254432c40e4799.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1a4fed0f254432c40e4799.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1a4fed0f254432c40e4799.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/son-dakika-onemli-sayi-aciklandi-tam-2-bin-754-kisi-41057176</link>
+            <title>Önemli sayı açıklandı! Tam 2 bin 754 kişi...</title>
+            <description>Emniyet Genel Müdürlüğü, 2018 yılı içinde 110 bin civarında sosyal medya hesabı üzerinde çalışma yapıldığını, gözaltına alınan 7 bin 109 kişiden suç içerikli paylaşım yapan 2 bin 754'ünün tutuklandığını açıkladı.</description>
+            <pubDate>Wed, 19 Dec 2018 11:56:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/son-dakika-onemli-sayi-aciklandi-tam-2-bin-754-kisi-41057176</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>19.12.2018 13:51:08 +00:00</dc:modified>
+            <mi:dateTimeWritten>19.12.2018 11:54:25 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1a4cb70f254432c40e4749.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1a4cb70f254432c40e4749.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1a4cb70f254432c40e4749.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1a4cb70f254432c40e4749.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/haberler/ozet/gundem-24-saat-19-12-2018-41057096</link>
+            <title>Gündem - 24 Saat (19.12.2018)</title>
+            <description>.</description>
+            <pubDate>Wed, 19 Dec 2018 11:16:24 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/haberler/ozet/gundem-24-saat-19-12-2018-41057096</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Haberler</category>
+            <subcategory>Özet</subcategory>
+            <dc:modified>19.12.2018 11:16:24 +00:00</dc:modified>
+            <mi:dateTimeWritten>19.12.2018 11:13:34 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/son-dakika-kritik-operasyon-cok-sayida-gozalti-karari-41056981</link>
+            <title>Kritik operasyon! Çok sayıda gözaltı kararı</title>
+            <description>FETÖ'nün emniyetteki mahrem yapılanmasına yönelik 13 ilde düzenlenen operasyonlarda, 12'si Emniyet Müdürü olmak üzere 49 eski emniyet mensubundan 37'si gözaltına alındı.</description>
+            <pubDate>Wed, 19 Dec 2018 09:56:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/son-dakika-kritik-operasyon-cok-sayida-gozalti-karari-41056981</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>19.12.2018 12:22:31 +00:00</dc:modified>
+            <mi:dateTimeWritten>19.12.2018 09:55:13 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1a37fa0f254432c40e434c.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1a37fa0f254432c40e434c.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1a37fa0f254432c40e434c.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1a37fa0f254432c40e434c.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/her-satiri-korkunc-intikam-atesiyle-yaniyordum-41056638</link>
+            <title>Her satırı korkunç... 'İntikam ateşiyle yanıyordum'</title>
+            <description>Bursa'da aralarında husumet bulunan 9 aylık hamile İpek Yılmazcan'ı (37) evinde tabanca ile öldüren Necdet Caymaklar (58) hakim karşısına çıktı. Caymaklar, duruşmada "Kendimi korumak için öldürdüm" dedi fakat emniyet ifadesinde "Karımı öldürdüler, ben de intikam ateşiyle yanıyordum" dediği ortaya çıktı.</description>
+            <pubDate>Wed, 19 Dec 2018 07:40:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/her-satiri-korkunc-intikam-atesiyle-yaniyordum-41056638</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>19.12.2018 07:54:32 +00:00</dc:modified>
+            <mi:dateTimeWritten>19.12.2018 07:21:45 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c19f565c03c0e135c1f26b4.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c19f565c03c0e135c1f26b4.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c19f565c03c0e135c1f26b4.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c19f565c03c0e135c1f26b4.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/kastamonuda-yurekleri-sizlatan-goruntu-41056540</link>
+            <title>Kastamonu'da yürekleri sızlatan görüntü</title>
+            <description>Kastamonu’nun Tosya ilçesinde Tosya Belediyesi tarafından hayvan barınağı olarak kullanılan alanında sokak köpekleri ölüme terk edildi.</description>
+            <pubDate>Wed, 19 Dec 2018 06:46:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/kastamonuda-yurekleri-sizlatan-goruntu-41056540</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>19.12.2018 08:13:15 +00:00</dc:modified>
+            <mi:dateTimeWritten>19.12.2018 06:37:35 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c19e918c03c0e135c1f2211.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c19e918c03c0e135c1f2211.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c19e918c03c0e135c1f2211.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c19e918c03c0e135c1f2211.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/cocugunu-o-halde-gorunce-soke-oldu-41055913</link>
+            <title>Çocuğunu o halde görünce şoke oldu</title>
+            <description>Aydın'ın Efeler ilçesinde yaşayan Yeliz B., ilkokul 1'inci sınıf öğrencisi oğlunun okulda başka çocuklar tarafından dövüldüğü iddiasıyla şikayetçi oldu. Anne, "Çocuğumu okulda kimin darbettiği belli değil ancak diğer öğrenciler tarafından darbedildiği belli. Sağ yanağında morluklar ve vücudunda darbe izleri var" dedi.</description>
+            <pubDate>Tue, 18 Dec 2018 11:12:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/cocugunu-o-halde-gorunce-soke-oldu-41055913</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>18.12.2018 11:16:55 +00:00</dc:modified>
+            <mi:dateTimeWritten>18.12.2018 11:07:12 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c18d61ec03c0e19d8dc0318.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c18d61ec03c0e19d8dc0318.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c18d61ec03c0e19d8dc0318.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c18d61ec03c0e19d8dc0318.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/sehit-polise-en-aci-veda-41055862</link>
+            <title>Şehit polise en acı veda</title>
+            <description>DİYARBAKIR’ın Hani ilçesinde, takibe alınan PKK/KCK’lı teröristlerle çıkan çatışmada ağır yaralanan ve kaldırıldığı hastanede şehit olan polis memuru Nazım Tuncer’in cenazesi, toprağa verilmek üzere memleketi Uşak’ın Banaz ilçesine bağlı Kızılhisar köyüne getirildi.</description>
+            <pubDate>Tue, 18 Dec 2018 10:50:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/sehit-polise-en-aci-veda-41055862</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>18.12.2018 11:13:54 +00:00</dc:modified>
+            <mi:dateTimeWritten>18.12.2018 10:42:47 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c18d0d6c03c0e19d8dc01a3.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c18d0d6c03c0e19d8dc01a3.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c18d0d6c03c0e19d8dc01a3.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c18d0d6c03c0e19d8dc01a3.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/haberler/ozet/gundem-24-saat-18-12-2018-41055541</link>
+            <title>Gündem 24 Saat - 18.12.2018</title>
+            <description>Gündem 24 Saat - 18.12.2018</description>
+            <pubDate>Tue, 18 Dec 2018 07:52:07 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/haberler/ozet/gundem-24-saat-18-12-2018-41055541</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Haberler</category>
+            <subcategory>Özet</subcategory>
+            <dc:modified>18.12.2018 07:52:07 +00:00</dc:modified>
+            <mi:dateTimeWritten>18.12.2018 07:50:17 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/antalyada-once-sel-felaketi-ardindan-gunes-keyfi-41055064</link>
+            <title>''Bu mevsimde olur mu'' demeyin... Antalya'da deniz keyfi</title>
+            <description>Antalya’da dün akşam meydana gelen sel afeti sonrası öğlen saatlerinde gelen güneşli hava hereksi şaşırttı. Dünyaca ünlü Konyaaltı Sahili’ne gelen vatandaşlar, afet sonrası çıkan güneşin tadını çıkardı.</description>
+            <pubDate>Mon, 17 Dec 2018 14:45:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/antalyada-once-sel-felaketi-ardindan-gunes-keyfi-41055064</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>17.12.2018 14:53:40 +00:00</dc:modified>
+            <mi:dateTimeWritten>17.12.2018 14:38:49 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c17b6620f25442d649f8f18.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c17b6620f25442d649f8f18.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c17b6620f25442d649f8f18.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c17b6620f25442d649f8f18.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/universite-ogrencilerine-buyuk-tuzak-41055021</link>
+            <title>Üniversite öğrencilerine büyük tuzak</title>
+            <description>MUĞLA’da maddi sıkıntı çeken genç kızları fuhşa, üniversite öğrencilerini de içkili mekanlarda konsomatris olarak çalışmaya teşvik ettikleri belirlenip, polis tarafından gözaltına alınan 2 şüpheli, çıkarıldıkları mahkemece tutuklandı.</description>
+            <pubDate>Mon, 17 Dec 2018 14:16:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/universite-ogrencilerine-buyuk-tuzak-41055021</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>18.12.2018 11:20:52 +00:00</dc:modified>
+            <mi:dateTimeWritten>17.12.2018 14:09:42 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c17af5d0f25442d649f8d69.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c17af5d0f25442d649f8d69.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c17af5d0f25442d649f8d69.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c17af5d0f25442d649f8d69.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/istanbul-icin-sevindiren-haber-41054918</link>
+            <title>İstanbul için sevindiren haber</title>
+            <description>İstanbul'da barajların doluluk oranı yüzde 69,18'e ulaştı. Aralık dönemi baz alındığında 2010 yılından bu yana barajlardaki doluluk oranı en yüksek seviyeye ulaşırken, son durum havadan görüntülendi.</description>
+            <pubDate>Mon, 17 Dec 2018 13:10:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/istanbul-icin-sevindiren-haber-41054918</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>17.12.2018 13:35:25 +00:00</dc:modified>
+            <mi:dateTimeWritten>17.12.2018 13:02:17 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c17a021c03c0e10e087d00d.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c17a021c03c0e10e087d00d.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c17a021c03c0e10e087d00d.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c17a021c03c0e10e087d00d.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/ihbar-geldi-polis-harekete-gecti-bulunduklari-otomobilden-cikti-41054602</link>
+            <title>İhbar geldi polis harekete geçti... Bulundukları otomobilden çıktı</title>
+            <description>Uşak'ta düzenlenen uyuşturucu operasyonunda 35 bin 880 uyuşturucu hap ele geçirildi, biri kadın 2 şüpheli gözaltına alındı. Uyuşturucu taşıyan şüphelilerden birinin kanser hastası olduğu tespit edildi </description>
+            <pubDate>Mon, 17 Dec 2018 10:30:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/ihbar-geldi-polis-harekete-gecti-bulunduklari-otomobilden-cikti-41054602</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>17.12.2018 11:57:23 +00:00</dc:modified>
+            <mi:dateTimeWritten>17.12.2018 09:56:02 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c177744c03c0e10e087c57f.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c177744c03c0e10e087c57f.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c177744c03c0e10e087c57f.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c177744c03c0e10e087c57f.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/fetonun-a5-kategorisindeydi-cezasi-belli-oldu-41054598</link>
+            <title>FETÖ'nün "A5" kategorisindeydi cezası belli oldu</title>
+            <description>Gaziantep'te Fetullahçı Terör Örgütü/Paralel Devlet Yapılanması'na (FETÖ/PDY) yönelik davada, eski polis 6 yıl 3 ay hapis cezasına çarptırıldı.</description>
+            <pubDate>Mon, 17 Dec 2018 09:51:15 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/fetonun-a5-kategorisindeydi-cezasi-belli-oldu-41054598</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>17.12.2018 09:51:15 +00:00</dc:modified>
+            <mi:dateTimeWritten>17.12.2018 09:50:17 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c177180c03c0e10e087c442.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c177180c03c0e10e087c442.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c177180c03c0e10e087c442.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c177180c03c0e10e087c442.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/haberler/ozet/gundem-24-saat-17-12-2018-41054446</link>
+            <title>Gündem 24 Saat - 17.12.2018</title>
+            <description>.</description>
+            <pubDate>Mon, 17 Dec 2018 08:30:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/haberler/ozet/gundem-24-saat-17-12-2018-41054446</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Haberler</category>
+            <subcategory>Özet</subcategory>
+            <dc:modified>17.12.2018 08:30:22 +00:00</dc:modified>
+            <mi:dateTimeWritten>17.12.2018 08:28:50 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/son-dakika-suleyman-soyludan-cok-onemli-aciklamalar-41054244</link>
+            <title>Süleyman Soylu'dan çok önemli açıklamalar</title>
+            <description>İçişleri Bakanı Süleyman Soylu, "Fırat Kalkanı Harekatı yaptık, Amerika bize 'yap' demedi. Zeytin Dalı Harekatı yaptık, bizim karşımıza çıktı, tehdit etti. Beslediği adamlarla bizi yıldırabileceğini düşündü. Uluslararası bir kuşatma ortaya koymaya çalıştı ama Allah'a şükürler olsun Türkiye bunu da aştı." açıklamasında bulundu.</description>
+            <pubDate>Mon, 17 Dec 2018 06:48:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/son-dakika-suleyman-soyludan-cok-onemli-aciklamalar-41054244</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>17.12.2018 08:00:36 +00:00</dc:modified>
+            <mi:dateTimeWritten>17.12.2018 06:45:56 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c17515ac03c0e10e087b84d.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c17515ac03c0e10e087b84d.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c17515ac03c0e10e087b84d.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c17515ac03c0e10e087b84d.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/bacanak-dehsetinde-ceza-belli-oldu-41053247</link>
+            <title>Bacanak dehşetinde ceza belli oldu</title>
+            <description>Antalya'nın Manavgat ilçesinde 21 Ağustos 2017 tarihinde bacanağını ve baldızını tüfekle başlarından vurarak öldüren Süleyman D. 2 kez müebbet hapis cezasına çarptırıldı. </description>
+            <pubDate>Sat, 15 Dec 2018 14:22:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/bacanak-dehsetinde-ceza-belli-oldu-41053247</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>15.12.2018 16:15:12 +00:00</dc:modified>
+            <mi:dateTimeWritten>15.12.2018 14:18:51 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c150e0c0f254433d48c41a0.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c150e0c0f254433d48c41a0.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c150e0c0f254433d48c41a0.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c150e0c0f254433d48c41a0.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-nikah-sahidi-oldu-41053202</link>
+            <title>Cumhurbaşkanı Erdoğan, nikah şahidi oldu</title>
+            <description>CUMHURBAŞKANI Recep Tayyip Erdoğan, AK Parti İzmir Büyükşehir Belediye Başkan Adayı ve Ekonomi eski Bakanı Nihat Zeybekci’nin oğlunun nikah töreninde şahitlik yaptı.</description>
+            <pubDate>Sat, 15 Dec 2018 13:30:57 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-nikah-sahidi-oldu-41053202</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>15.12.2018 13:30:57 +00:00</dc:modified>
+            <mi:dateTimeWritten>15.12.2018 13:29:26 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c15020f0f254433d48c4075.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c15020f0f254433d48c4075.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c15020f0f254433d48c4075.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c15020f0f254433d48c4075.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/cumhurbaskanina-hakaret-eden-5-kisi-icin-flas-gelisme-41052934</link>
+            <title>Cumhurbaşkanına hakaret eden 5 kişi için flaş gelişme</title>
+            <description>Antalya'da, sosyal medya hesaplarından Cumhurbaşkanı Recep Tayyip Erdoğan'a hakaret ettiği iddiasıyla gözaltına alınan 9 şüpheliden 5'i tutuklandı.</description>
+            <pubDate>Sat, 15 Dec 2018 08:59:03 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/cumhurbaskanina-hakaret-eden-5-kisi-icin-flas-gelisme-41052934</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>15.12.2018 08:59:03 +00:00</dc:modified>
+            <mi:dateTimeWritten>15.12.2018 08:57:29 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c14c2380f254433d48c3896.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c14c2380f254433d48c3896.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c14c2380f254433d48c3896.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c14c2380f254433d48c3896.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/son-dakika-mucizevi-kurtulus-boyle-bir-seyi-normalde-bana-soyleseler-inanamazdim-41052906</link>
+            <title>"Mucizevi" kurtuluş... ''Böyle bir şeyi normalde bana söyleseler inanamazdım''</title>
+            <description>Kuzey Marmara Otoyolu'ndaki iş kazasında 30 metre yükseklikten düşüp yaklaşık 30 ton ağırlığındaki beton blokun altından sağ kurtulan işçi Kani Öztürk, iyileşip ailesiyle zaman geçirmek için gün sayıyor.</description>
+            <pubDate>Sat, 15 Dec 2018 08:45:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/son-dakika-mucizevi-kurtulus-boyle-bir-seyi-normalde-bana-soyleseler-inanamazdim-41052906</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>15.12.2018 08:56:47 +00:00</dc:modified>
+            <mi:dateTimeWritten>15.12.2018 08:40:02 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c14bf0e0f254433d48c382c.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c14bf0e0f254433d48c382c.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c14bf0e0f254433d48c382c.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c14bf0e0f254433d48c382c.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/saskina-donduler-ilk-defa-boyle-bir-hasta-ile-karsilasiyorum-41052869</link>
+            <title>Şaşkına döndüler: 'İlk defa böyle bir hasta ile karşılaşıyorum'</title>
+            <description>Şanlıurfa'da ameliyat edilen otizmli çocuğun mide ve bağırsağından plastik çay kaşığı, eldiven, poşet, kablodan oluşan yaklaşık 2 kilogram kitle çıkarıldı.</description>
+            <pubDate>Sat, 15 Dec 2018 07:59:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/saskina-donduler-ilk-defa-boyle-bir-hasta-ile-karsilasiyorum-41052869</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>15.12.2018 08:25:54 +00:00</dc:modified>
+            <mi:dateTimeWritten>15.12.2018 07:56:52 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c14b4590f254433d48c376e.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c14b4590f254433d48c376e.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c14b4590f254433d48c376e.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c14b4590f254433d48c376e.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/istanbulda-sok-operasyon-gozaltina-alindi-41052356</link>
+            <title>İstanbul'da şok operasyon! Gözaltına alındı...</title>
+            <description>İstanbul, Fatih'te polis ekiplerinin operasyon düzenlediği evde 810 gram eroin, 3.25 gram kokain, 378 gram metamfetamin, 2 ecstasy hap ile uyuşturucu satışından kazanıldığı tahmin edilen 5 bin 150 lira para ele geçirildi. Polis evde bulunan 35 yaşındaki T.T. isimli kadın ile 40 yaşındaki B.D.'yi gözaltına aldı. T.T. kucağındaki bebeğiyle birlikte Fatih Asayiş Büro Amirliği'ne getirildi. </description>
+            <pubDate>Fri, 14 Dec 2018 13:42:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/istanbulda-sok-operasyon-gozaltina-alindi-41052356</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>14.12.2018 13:59:07 +00:00</dc:modified>
+            <mi:dateTimeWritten>14.12.2018 12:34:11 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c13b3330f25441db87cec02.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c13b3330f25441db87cec02.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c13b3330f25441db87cec02.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c13b3330f25441db87cec02.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/son-dakika-teror-orgutune-agir-darbe-41052418</link>
+            <title>Son dakika: Terör örgütüne ağır darbe!</title>
+            <description>Türk Silahlı Kuvvetleri (TSK) tarafından yapılan açıklamada, ''Irak kuzeyi Haftanin, Zap ve Hakurk bölgelerine 14 Aralık 2018'de düzenlenen hava harekâtları neticesinde terör örgütüne ait mağara ve sığınaklar imha edilmiş, üs bölgelerimize saldırı hazırlığında olan silahlı sekiz bölücü terörist etkisiz hale getirilmiştir.'' denildi. Ayrıca Milli Savunma Bakanlığı, son 1 haftada yurt içinde ve dışında yürütülen operasyonlarda 21 teröristin etkisiz hale getirildiğini bildirdi.</description>
+            <pubDate>Fri, 14 Dec 2018 13:03:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/son-dakika-teror-orgutune-agir-darbe-41052418</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>14.12.2018 13:53:12 +00:00</dc:modified>
+            <mi:dateTimeWritten>14.12.2018 13:02:23 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c13b47e0f25441db87cec32.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c13b47e0f25441db87cec32.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c13b47e0f25441db87cec32.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c13b47e0f25441db87cec32.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/haberler/ozet/gundem-24-saat-14-12-2018-41052252</link>
+            <title>Gündem 24 Saat (14.12.2018)</title>
+            <description>.</description>
+            <pubDate>Fri, 14 Dec 2018 11:40:04 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/haberler/ozet/gundem-24-saat-14-12-2018-41052252</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Haberler</category>
+            <subcategory>Özet</subcategory>
+            <dc:modified>14.12.2018 11:40:04 +00:00</dc:modified>
+            <mi:dateTimeWritten>14.12.2018 11:36:45 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/teror-orgutu-pkkya-buyuk-darbe-41051987</link>
+            <title>Terör örgütü PKK'ya büyük darbe</title>
+            <description>Kilis’te jandarma ekiplerinin PKK'ya yönelik operasyonunda baskın yapılan evde 8 adet RPG-7 roketatar mühimmatı, 9 adet RPG 7 roketatar sevk fişeği, 275 adet elektrikli fünye, 67 adet AK-47 Kaleşnikof piyade tüfeği şarjörü ele geçirildi. </description>
+            <pubDate>Fri, 14 Dec 2018 09:04:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/teror-orgutu-pkkya-buyuk-darbe-41051987</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>14.12.2018 09:04:47 +00:00</dc:modified>
+            <mi:dateTimeWritten>14.12.2018 08:54:56 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1371e70f25441db87cdfa9.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1371e70f25441db87cdfa9.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1371e70f25441db87cdfa9.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1371e70f25441db87cdfa9.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/musta-teror-orgutune-sok-operasyon-41051930</link>
+            <title>Muş’ta terör örgütüne şok operasyon</title>
+            <description>Muş İl Jandarma Komutanlığı ekiplerince, PKK/KCK terör örgütü işbirlikçilerinin yakalanmasına yönelik düzenlenen operasyonda 10 kişi gözaltına alındı. </description>
+            <pubDate>Fri, 14 Dec 2018 08:17:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/musta-teror-orgutune-sok-operasyon-41051930</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>14.12.2018 08:18:17 +00:00</dc:modified>
+            <mi:dateTimeWritten>14.12.2018 08:16:32 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c13671d0f25441db87cde2a.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c13671d0f25441db87cde2a.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c13671d0f25441db87cde2a.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c13671d0f25441db87cde2a.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/akilalmaz-soygun-20-dakika-arayla-41051725</link>
+            <title>Akılalmaz soygun! 20 dakika arayla...</title>
+            <description>BURSA’da aynı kişiye ait iki cep telefonu mağazasına 20 dakika arayla giren yüzleri maskeli 4 kişi, yaklaşık 100 bin liralık cep telefonu, tablet ve elektronik malzeme çalarak kaçtı. Olay anı güvenlik kameralarına yansıdı.</description>
+            <pubDate>Fri, 14 Dec 2018 06:14:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/akilalmaz-soygun-20-dakika-arayla-41051725</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>14.12.2018 06:34:37 +00:00</dc:modified>
+            <mi:dateTimeWritten>14.12.2018 06:06:54 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c134a2e0f25441db87cd803.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c134a2e0f25441db87cd803.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c134a2e0f25441db87cd803.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c134a2e0f25441db87cd803.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/sanliurfada-silahli-boru-kavgasi-9-yarali-41051421</link>
+            <title>Şanlıurfa'da silahlı boru kavgası! 9 yaralı...</title>
+            <description>ŞANLIURFA’nın Viranşehir ilçesinde akraba iki aile arasında menfeze yerleştirilen su borusunun yönü nedeniyle çıkan silah ve sopaların kullanıldığı kavgada aralarında kadınların da bulunduğu 9 kişi yaralandı.</description>
+            <pubDate>Thu, 13 Dec 2018 14:34:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/sanliurfada-silahli-boru-kavgasi-9-yarali-41051421</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>13.12.2018 16:44:39 +00:00</dc:modified>
+            <mi:dateTimeWritten>13.12.2018 14:20:27 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c126de70f25441db87cd3b8.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c126de70f25441db87cd3b8.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c126de70f25441db87cd3b8.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c126de70f25441db87cd3b8.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/kar-maskeli-hirsizlara-sok-operasyon-41051002</link>
+            <title>Kar maskeli hırsızlara şok operasyon</title>
+            <description>GAZİANTEP’te kar maskesi ve tüfek ile girdikleri kuyumcuda, dükkan sahibinin tabanca çekmesi üzerine korkuya kapılıp kaçan 2 şüpheli, polis operasyonuyla yakalandı. Şüphelilerin evlerinde yapılan aramada kar maskeleri ve bir av tüfeği ile çalıntı olduğu tahmin edilen ziynet eşyaları ele geçirildi.</description>
+            <pubDate>Thu, 13 Dec 2018 10:46:46 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/kar-maskeli-hirsizlara-sok-operasyon-41051002</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>13.12.2018 10:46:46 +00:00</dc:modified>
+            <mi:dateTimeWritten>13.12.2018 10:42:20 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1238370f25443118460fdc.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1238370f25443118460fdc.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1238370f25443118460fdc.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c1238370f25443118460fdc.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/haberler/ozet/gundem-24-saat-13-12-2018-41050645</link>
+            <title>Gündem 24 Saat - 13.12.2018</title>
+            <description>Gündem 24 Saat - 13.12.2018</description>
+            <pubDate>Thu, 13 Dec 2018 08:08:33 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/haberler/ozet/gundem-24-saat-13-12-2018-41050645</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Haberler</category>
+            <subcategory>Özet</subcategory>
+            <dc:modified>13.12.2018 08:08:33 +00:00</dc:modified>
+            <mi:dateTimeWritten>13.12.2018 08:06:35 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/son-dakika-budodan-sefer-iptalleri-41049717</link>
+            <title>Son dakika: BUDO'dan sefer iptalleri </title>
+            <description>Bursa Deniz Otobüslerinin (BUDO) bazı seferleri, olumsuz hava koşulları nedeniyle iptal edildi.</description>
+            <pubDate>Wed, 12 Dec 2018 14:05:33 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/son-dakika-budodan-sefer-iptalleri-41049717</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>12.12.2018 14:05:33 +00:00</dc:modified>
+            <mi:dateTimeWritten>12.12.2018 14:04:22 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c11158d0f2544311845f9bb.jpeg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c11158d0f2544311845f9bb.jpeg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c11158d0f2544311845f9bb.jpeg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c11158d0f2544311845f9bb.jpeg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/trafikte-can-pazari-41049354</link>
+            <title>Trafikte can pazarı</title>
+            <description>İstanbul, Sultangazi’de emniyet şeridinde duran kamyonun altına giren motosiklet sürücüsü yaralandı.</description>
+            <pubDate>Wed, 12 Dec 2018 10:59:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/trafikte-can-pazari-41049354</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>12.12.2018 11:21:48 +00:00</dc:modified>
+            <mi:dateTimeWritten>12.12.2018 10:54:25 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c10eab8c03c0e23b0cce345.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c10eab8c03c0e23b0cce345.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c10eab8c03c0e23b0cce345.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c10eab8c03c0e23b0cce345.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/kahreden-olay-sadece-oglunu-ziyaret-edecekti-41048817</link>
+            <title>Kahreden olay! Sadece oğlunu ziyaret edecekti</title>
+            <description>Samsun'da meydana gelen trafik kazasında ağır yaralanan yaşlı adam tedavi altına alındığı hastanede hayatını kaybetti. </description>
+            <pubDate>Wed, 12 Dec 2018 06:09:01 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/kahreden-olay-sadece-oglunu-ziyaret-edecekti-41048817</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>12.12.2018 06:09:01 +00:00</dc:modified>
+            <mi:dateTimeWritten>12.12.2018 05:56:11 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c10a5f6c03c0e23b0ccd6db.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c10a5f6c03c0e23b0ccd6db.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c10a5f6c03c0e23b0ccd6db.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c10a5f6c03c0e23b0ccd6db.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/olu-sayisi-artiyor-yetkililer-inceleme-baslatti-41048294</link>
+            <title>Ölü sayısı artıyor! Yetkililer inceleme başlattı...</title>
+            <description>Sinop'ta, 3 ölü yunus sahile vurdu. Yunuslardan örnek alan yetkililer, ölümlere ilişkin inceleme başlattı.</description>
+            <pubDate>Tue, 11 Dec 2018 12:42:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/olu-sayisi-artiyor-yetkililer-inceleme-baslatti-41048294</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>11.12.2018 12:54:39 +00:00</dc:modified>
+            <mi:dateTimeWritten>11.12.2018 12:37:50 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c0fb38cc03c0e11a005f1bf.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c0fb38cc03c0e11a005f1bf.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c0fb38cc03c0e11a005f1bf.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c0fb38cc03c0e11a005f1bf.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/fetoden-19-kisi-hakkinda-yakalama-karari-41047872</link>
+            <title>FETÖ'den 19 kişi hakkında yakalama kararı</title>
+            <description>İzmir'de, FETÖ'ye yönelik soruşturma kapsamında 19 şüpheli hakkında yakalama kararı çıkartıldı. </description>
+            <pubDate>Tue, 11 Dec 2018 09:17:22 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/fetoden-19-kisi-hakkinda-yakalama-karari-41047872</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>11.12.2018 09:17:22 +00:00</dc:modified>
+            <mi:dateTimeWritten>11.12.2018 09:14:21 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c0f80910f25442418628335.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c0f80910f25442418628335.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c0f80910f25442418628335.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c0f80910f25442418628335.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/gundem/5-yil-once-bobreginde-unutuldu-kanserden-sonra-bunu-kaldiracak-gucum-kalmadi-dedi-41047654</link>
+            <title>5 yıl önce böbreğinde unutuldu! “Kanserden sonra bunu dayanacak gücüm kalmadı” dedi</title>
+            <description>İzmir’de böbrek ağrısı şikayetiyle gittiği hastanede, böbrek taşını çıkartmak için uygulanan kateterin teli böbreğinde unutulan 58 yaşındaki Yıldız Sessiz Aslım, 5 yıl yaklaşık 50 santimlik telle yaşadı. Durumun başka bir hastanede fark edilmesiyle hemen operasyona alınan talihsiz kadın, böbreğinin yüzde 80’lik kısmını kaybettiğini belirterek dava açacağını söyledi. </description>
+            <pubDate>Tue, 11 Dec 2018 07:46:00 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/gundem/5-yil-once-bobreginde-unutuldu-kanserden-sonra-bunu-kaldiracak-gucum-kalmadi-dedi-41047654</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Gündem</category>
+            <subcategory>Gündem</subcategory>
+            <dc:modified>11.12.2018 08:21:56 +00:00</dc:modified>
+            <mi:dateTimeWritten>11.12.2018 07:35:58 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c0f6d570f25442418627d35.jpg" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/5c0f6d570f25442418627d35.jpg">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/5c0f6d570f25442418627d35.jpg" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/5c0f6d570f25442418627d35.jpg" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+        <item
+            xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
+            <link>http://www.hurriyet.com.tr/haberler/ozet/gundem-24-saat-10-12-2018-41046422</link>
+            <title>Gündem 24 Saat- 10.12.2018</title>
+            <description>Gündem 24 Saat- 10.12.2018</description>
+            <pubDate>Mon, 10 Dec 2018 07:20:30 Z</pubDate>
+            <guid isPermaLink="false">http://www.hurriyet.com.tr/haberler/ozet/gundem-24-saat-10-12-2018-41046422</guid>
+            <controlIxName></controlIxName>
+            <controlTitle></controlTitle>
+            <category>Haberler</category>
+            <subcategory>Özet</subcategory>
+            <dc:modified>10.12.2018 07:20:30 +00:00</dc:modified>
+            <mi:dateTimeWritten>10.12.2018 07:18:07 +00:00</mi:dateTimeWritten>
+            <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" />
+            <media:content url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900">
+                <media:thumbnail url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" />
+                <media:title></media:title>
+                <media:text></media:text>
+                <media:credit></media:credit>
+            </media:content>
+            <enclosure url="file://i.hurimg.com/i/hurriyet/75/620x350/57bbf91967b0a930747c6900" type="image/jpeg" length="50000" />
+            <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        </item>
+    </channel>
+</rss>

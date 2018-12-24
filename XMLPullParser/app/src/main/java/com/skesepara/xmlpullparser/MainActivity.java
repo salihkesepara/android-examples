@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         try {
-            InputStream is = getAssets().open("file.xml");
+            InputStream is = getAssets().open("hurriyet.xml");
 
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
@@ -31,15 +31,15 @@ public class MainActivity extends AppCompatActivity {
             Element element = doc.getDocumentElement();
             element.normalize();
 
-            NodeList nList = doc.getElementsByTagName("employee");
+            NodeList nList = doc.getElementsByTagName("item");
 
             for (int i = 0; i<nList.getLength(); i++) {
                 Node node = nList.item(i);
 
                 if (node.getNodeType() == Node.ELEMENT_NODE) {
                     Element element2 = (Element) node;
-                    Log.v("name", getValue("name", element2));
-                    Log.v("Surname", getValue("surname", element2));
+                    Log.v("title", getValue("title", element2));
+                    Log.v("link", getValue("link", element2));
                 }
             }
 
