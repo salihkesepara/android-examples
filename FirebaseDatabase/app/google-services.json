@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "677247860944",
+    "firebase_url": "https://databasesimple-d47c3.firebaseio.com",
+    "project_id": "databasesimple-d47c3",
+    "storage_bucket": "databasesimple-d47c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677247860944:android:56994ff47182ad70",
+        "android_client_info": {
+          "package_name": "com.example.salih.kesepara.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677247860944-b708k5d4cd8s22jb2aiajotl3ciltfja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.salih.kesepara.firebasedatabase",
+            "certificate_hash": "6ae94a7b3343f56f6bf4f15e92dfe857d349ef75"
+          }
+        },
+        {
+          "client_id": "677247860944-kl7c5bmpvlhja1e3atdpvv24rut91q5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqIdJbCKBYJZV0kovFZ0hHfezX-9MWtNg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677247860944-kl7c5bmpvlhja1e3atdpvv24rut91q5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
